@@ -97,7 +97,6 @@ This project successfully addresses **key issues** in Pakistan's used car market
 ## 🔗 Repository Details
 Feel free to **contribute** or report issues! 
 - **Author:** Syed Muhammad Hamza Ali  
-- **GitHub Repository:** [Pakistani Vehicle Price Prediction](https://github.com/SyedMuhammadHamzaAli/Weapon-Detection-System)  
 - **License:** MIT  
 
 ---
