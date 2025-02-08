@@ -80,23 +80,11 @@ This system can benefit various stakeholders:
 - Evaluated **56 test vehicles** sourced from PakWheels.com.
 - **XGBoost & LightGBM models showed the highest accuracy** in predicting used car prices.
 - Model predictions closely aligned with **actual car prices**, improving market transparency.
-
+![Screenshot 1](https://github.com/SyedMuhammadHamzaAli/Pakistani-Vehicle-Price-Prediction-/blob/main/Pakistani%20Vehicle%20price%20predict.png)
 ---
 
 ## ✅ Conclusion
 This project successfully addresses **key issues** in Pakistan's used car market by introducing an **AI-powered valuation system**. The combination of **data-driven insights, advanced ML models, and an intuitive mobile interface** enhances transparency, fairness, and accuracy in car pricing.
-
----
-
-## 📷 Output Display
-### Screenshot 1
-![Screenshot 1](https://raw.githubusercontent.com/SyedMuhammadHamzaAli/Weapon-Detection-System/main/Images/Screenshot%20(120).png)
-
-### Screenshot 2
-![Screenshot 2](https://raw.githubusercontent.com/SyedMuhammadHamzaAli/Weapon-Detection-System/main/Images/Screenshot%20(121).png)
-
-### Screenshot 3
-![Screenshot 3](https://raw.githubusercontent.com/SyedMuhammadHamzaAli/Weapon-Detection-System/main/Images/Screenshot%20(122).png)
 
 ---
 
