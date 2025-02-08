@@ -53,7 +53,6 @@ We trained four machine learning regression models:
 ---
 
 ## 📲 User Interface Development
-- Developed a **mobile app** using **Java (Android)**.
 - Allows users to **input car details** and receive an **AI-generated price estimate**.
 
 ---
