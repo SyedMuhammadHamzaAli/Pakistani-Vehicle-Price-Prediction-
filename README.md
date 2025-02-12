@@ -71,7 +71,6 @@ This system can benefit various stakeholders:
 - **Machine Learning Libraries**: scikit-learn, XGBoost, LightGBM
 - **Data Processing**: NumPy, Pandas
 - **Web Scraping**: Scrapy
-- **Mobile App Development**: Java (Android Studio)
 
 ---
 
