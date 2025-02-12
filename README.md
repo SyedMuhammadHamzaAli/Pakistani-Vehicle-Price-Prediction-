@@ -1,5 +1,5 @@
 # ⛽ Pakistani Vehicle Price Prediction
-
+![PakCar Valuator](https://github.com/SyedMuhammadHamzaAli/Pakistani-Vehicle-Price-Prediction-/blob/main/PakCAr.jpg)
 ## 📄 Introduction
 The used car market in Pakistan plays a significant role in the country’s economy, valued at **PKR 1.5 trillion (USD 5 Billion)** with over **2000 cars changing hands daily** (Source: PAMA 2023). However, determining fair prices remains challenging due to **data scarcity, subjectivity, and lack of transparency**.
 
